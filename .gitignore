@@ -15,3 +15,4 @@ Makefile
 
 # Ignore vcpkg-related files
 vcpkg/*
+vcpkg
