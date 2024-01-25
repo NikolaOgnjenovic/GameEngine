@@ -1,0 +1,17 @@
+# Ignore build artifacts and output directories
+build/
+cmake-build-debug/
+
+# Ignore CMake files and user-specific files
+CMakeFiles/
+CMakeScripts/
+CMakeCache.txt
+CMakeSettings.json
+cmake_install.cmake
+Makefile
+*.cmake
+*.cbp
+*.idea
+
+# Ignore vcpkg-related files
+vcpkg/*
